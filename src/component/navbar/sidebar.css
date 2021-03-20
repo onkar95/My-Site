@@ -1,0 +1,19 @@
+.sidebar-upper {
+    display: flex;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+}
+.connect {
+    text-align: center;
+}
+
+.social-media {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 2em;
+}
+.name {}
