@@ -1,5 +1,5 @@
 
-LINK TO APP :https://my-site-12.herokuapp.com/blog
+LINK TO APP :https://my-site-12.herokuapp.com
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
